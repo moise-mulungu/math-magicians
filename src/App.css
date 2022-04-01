@@ -21,8 +21,14 @@
 }
 
 .result {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
   background-color: rgb(76, 88, 88);
   border: 1px solid black;
+  color: aliceblue;
+  font-size: 26px;
+  padding: 20px;
 }
 
 .digit-operator {
