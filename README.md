@@ -7,7 +7,7 @@ My first react app
 ![](file:///home/moise/Leaderboard-project/dist/index.html)
 
 # math-magicians
-On this step of my project, I add componets, props and state for my app
+On this step of the project, Users can use any operation to add, substract, divide and multiply any number
 
 > Open with with the server
 
