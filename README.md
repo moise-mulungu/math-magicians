@@ -7,11 +7,11 @@ My first react app
 ![](file:///home/moise/Leaderboard-project/dist/index.html)
 
 # math-magicians
-I start creating a react app by setting up first the basic structure.
+On this step of my project, I add componets, props and state for my app
 
 > Open with with the server
 
-![screenshot](image/react-app.png).
+![screenshot](image/calculator.png).
 
 ## Built With
 
