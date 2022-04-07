@@ -1,17 +1,17 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # math-magicians
-My first react app
+My Math magicians full web
 
 
 ![](file:///home/moise/Leaderboard-project/dist/index.html)
 
 # math-magicians
-On this step of the project, Users can use any operation to add, substract, divide and multiply any number.
+On this step of the project, I used react router to make a single page application with three different pages linked each others .
 
 > Open with with the server
 
-![screenshot](image/hooks.png).
+![screenshot](image/react-router.png).
 
 ## Built With
 
