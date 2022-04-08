@@ -24,7 +24,10 @@ On this step of the project, I used react router to make a single page applicati
 
 [github page](https://github.com/moise-mulungu/math-magicians)
 
-[live demo](https://moise-mulungu.github.io/math-magicians/dist/)
+## Deploy 
+
+[heroku](https://math-magicians-moise.herokuapp.com/)
+[Netlify](https://heroic-begonia-871006.netlify.app)
 
 ## Getting Started
 
