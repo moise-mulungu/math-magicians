@@ -26,8 +26,9 @@ On this step of the project, I used react router to make a single page applicati
 
 ## Deploy 
 
-[heroku](https://math-magicians-moise.herokuapp.com/)
-[Netlify](https://heroic-begonia-871006.netlify.app)
+- [heroku](https://math-magicians-moise.herokuapp.com/)
+
+- [Netlify](https://heroic-begonia-871006.netlify.app)
 
 ## Getting Started
 
